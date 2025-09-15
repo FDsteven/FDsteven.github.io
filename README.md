@@ -1,9 +1,9 @@
 # Researcher, Transportation Engineer, Programmer, and Data Scientist
 
 ### Technical Skills
-#### Programming Languages-
+#### Programming Languages
 Python, Rust, R, SQL
-#### Statistical Modeling:
+#### Statistical Modeling
 Probability distribution fitting, Hypothesis testing, Multivariate regression, Logistic regression, Categorical data analysis
 #### Machine Learning
 Feature engineering, LASSO/Ridge Regression, Neural networks, PCA, K-fold Analysis
