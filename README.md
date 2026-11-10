@@ -1,5 +1,7 @@
 # Researcher, Transportation Engineer, Programmer, and Data Scientist
 
+Currently: Postdoctoral Researcher @ Texas Railway Analysis & Innovation Node (TRAIN), The University of Texas at Austin (_May 2026 – Present_)
+
 ### Technical Skills
 #### Programming Languages
 Python, Rust, R, SQL
@@ -17,7 +19,7 @@ Autodesk Civil3D, Autodesk Revit, TransCAD, MicroStation
 ## Education
 - Civil Engineering, University of Illinois at Urbana-Champaign, B.S. (_2019_)
 - Civil Engineering, University of Illinois at Urbana-Champaign, M.S. (_2021_)
-- Civil Engineering, The University of Texas at Austin, Ph.D. (_2025_)
+- Civil Engineering, The University of Texas at Austin, Ph.D. (_May 2026_)
 
 ## Work Experience
 
@@ -27,7 +29,12 @@ Autodesk Civil3D, Autodesk Revit, TransCAD, MicroStation
 - Engineered locomotive engine derating functions using Python and Rust to reflect the influence of altitude and ambient temperature
 - Conducted case studies from partner companies to validate model performance
 
-**Graduate Research Assistant @ Texas Railway Analysis & Innovation Node (TRAIN)	(_Jan. 2023 - Dec.2025_)**
+**Postdoctoral Researcher @ Texas Railway Analysis & Innovation Node (TRAIN)	(_May 2026 – Present_)**
+
+_Energy Benefits of Battery Electric Locomotives under Growing Traffic Volumes_
+- Quantifying how the energy and travel-time benefits of battery-electric locomotive deployment evolve as corridor traffic density grows, using multi-train ALTRIOS simulation
+
+**Graduate Research Assistant @ Texas Railway Analysis & Innovation Node (TRAIN)	(_Jan. 2023 – May 2026_)**
 
 _Optimization of Battery Electric Locomotive (BEL) Deployment and Preferable Corridor Identification_
 - Developed a mixed integer linear programming (MILP) tool with CPLEX python package to generate optimal operation corridor for alternative energy powered train with specific loading scenarios
@@ -62,10 +69,14 @@ _Predicting Railroad Shipping Rates with Regression Methods and Machine Learning
 [Open Source Project Website](https://www.nrel.gov/transportation/altrios)
 - Developed Train Planner module to process O-D pair demand and generate preliminary train plans for the system using **Python**
 - Integrated cross-language manager to efficiently manage modules with different coding languages 
+- ALTRIOS was named a 2026 R&D 100 Award winner (Silver, Corporate Social Responsibility), announced August 6, 2026
 
 ### Rail Corridor Life-Cycle Assessment (LCA) Framework, Factors and Models
 - Developed process diagrams for rail maintenance activities
 - Constructed a calculation module for emission and energy consumption calculation based on life-cycle activities
+
+## Tidebound — Independent Game Development
+An indie browser game built with vanilla JavaScript. [Play the live demo](https://tidebound-demo.pages.dev/)
 
 ## Publications and Proceedings
 1. Shi D. and C.T. Dick. Comparing Regression and Machine Learning Models for Prediction of Freight Railroad Shipping Rates. At Transportation Research Board Annual Meeting 2023.
@@ -74,6 +85,5 @@ _Predicting Railroad Shipping Rates with Regression Methods and Machine Learning
 4. Shi D. and C.T. Dick, Influence of Interchange, Train Type and Commodity Shipped on the Adoption of Higher Gross Rail Load Railcars by US Freight Railroads. In: Transportation Research Record, 2679(1), 1750-1767. https://doi.org/10.1177/03611981241257411
 5. Shi D. Quantitative Evaluation and Optimization of the Potential Benefits of Battery Electric Locomotives with ALTRIOS. at INFORMS Annual Meeting 2024, Seattle, WA. October 20-23, 2024.
 6. Shi D. and C.T. Dick, Simulating and Quantifying the Feasible Operating Range of Gravity Battery Electric Trains on Mine-to-Port Railways. At Transportation Research Board Annual Meeting 2025.
-7. Shi D., M. J. Copley, and C.T. Dick, Sensitivity of Potential Battery Electric Locomotive Energy Benefits to Freight Railway Operating Characteristics and Charging Strategies, Submitted to Transportation Research Record, Apr 5, 2025.
-8. Shi D. and C.T. Dick, Quantifying the Feasible Operating Range of Gravity Battery Electric Trains on Mine-to-Port Railways. Submitted to Journal of Infrastructure Systems, Aug 1, 2025.
-
+7. Shi D., M. J. Copley, and C.T. Dick, Sensitivity of Potential Battery Electric Locomotive Energy Benefits to Freight Railway Operating Characteristics and Charging Strategies. Transportation Research Record, 2026. https://doi.org/10.1177/03611981251414676
+8. Shi D. and C.T. Dick, Quantifying the Feasible Operating Range of Gravity Battery Electric Trains on Mine-to-Port Railways. Journal of Infrastructure Systems, 2026.
